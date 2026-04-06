@@ -12,3 +12,7 @@ Another remote repository practice for 806 done on 20260223
 1.  Create a new repository on GitHub, and copy the URL for the repository
 2.  In RStudio, create a new project, and select "version control"
 
+## Colaboration
+
+successfully cloned and shared the code.
+
